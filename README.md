@@ -1,6 +1,9 @@
 # 15.3
 
 
+Q.Explain Hadoop Deployment Layout in Brief.
+
+
 Introduction:
 
 
